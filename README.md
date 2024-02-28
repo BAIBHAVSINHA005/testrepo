@@ -1,2 +1,2 @@
 # testrepo
-creating test repo for demo use
+create repository for understanding repository basics in fundamental tools in web publishing
